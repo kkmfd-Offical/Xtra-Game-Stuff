@@ -1,0 +1,17 @@
+{
+  "name": "Xtra Game Stuff",
+  "version": "0.2.3",
+  "description": "Extension for The Microbit",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*",
+    "microphone": "*"
+  },
+  "files": [
+    "README.md",
+    "main.ts"
+ 
+  ],
+  "public": true,
+  "preferredEditor": "tsprj"
+}
